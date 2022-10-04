@@ -14,7 +14,7 @@
 
 <1번 점과 점 사이의 거리>
 
-![1](D:\making\images\README\1.gif)
+![1](images/1.gif)
 
 
 
@@ -22,7 +22,7 @@
 
 <2번 선의 길이>
 
-![2](D:\making\images\README\2.gif)
+![2](images/2.gif)
 
 
 
@@ -30,7 +30,7 @@
 
 <3. 면적 계산>
 
-![3](D:\making\images\README\3.gif)
+![3](images/3.gif)
 
 
 
@@ -38,4 +38,4 @@
 
 <4. 부피와 중심좌표>
 
-![4](D:\making\images\README\4.gif)
+![4](images/4.gif)
